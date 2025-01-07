@@ -1,0 +1,23 @@
+---
+layout: base
+permalink: /index.html
+brow: This is the brow
+title: Gender STEM
+description: 'Tagline'
+
+---
+
+  <header>
+    <h1>{{ title }}</h1>
+    <h3>{{ description }}</h3>
+  </header>
+
+  <section>
+    <!-- loop posts -->
+    {% set itemList = collections.allPosts %}
+    {% asyncEach item in itemList %}
+      {% set definedDate = item.date %}
+      {% include "partials/card-blog.njk" %}
+    {% endeach %}
+  </section>
+</div>
