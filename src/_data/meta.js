@@ -62,11 +62,11 @@ export const navigation = {
   ariaPlatforms: 'Platforms',
   drawerNav: false
 };
-export const themeSwitch = {
-  title: 'Theme',
-  light: 'light',
-  dark: 'dark'
-};
+// export const themeSwitch = {
+//   title: 'Theme',
+//   light: 'light',
+//   dark: 'dark'
+// };
 export const greenweb = {
   // this goes into src/common/greenweb.njk
   providers: {
