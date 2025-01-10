@@ -10,6 +10,15 @@ description: 'Tagline'
   <header>
     <h1>{{ title }}</h1>
     <h3>{{ description }}</h3>
+    <h3>Chapters</h1>
+    <ul>
+      {% for chapter in collections.chapters %}
+        <li>
+          <a href="{{ chapter.url }}">{{ chapter.data.title | default("Untitled") }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
   </header>
 
   <section>
