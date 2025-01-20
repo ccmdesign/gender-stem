@@ -4,7 +4,6 @@ permalink: /index.html
 brow: This is the brow
 title: Gender STEM
 description: 'Tagline'
-
 ---
 
   <header>
@@ -18,7 +17,15 @@ description: 'Tagline'
         </li>
       {% endfor %}
     </ul>
-
+    <h3>Resources</h3>
+      {% for resource in resources %}
+        <pre>{{ resource | dump }}</pre>
+        {# <li>
+          <a href="{{ resource.url }}">{{ resource.name | default("Untitled") }}</a>
+        </li> #}
+      {% endfor %}
+    <ul>
+    </ul>
   </header>
 
   <section>
