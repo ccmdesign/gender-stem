@@ -1,5 +1,7 @@
 ---
 title: References
+permalink: /es/references/
+date: 2025-01-16T18:51:50
 ---
 
 ## 7    References

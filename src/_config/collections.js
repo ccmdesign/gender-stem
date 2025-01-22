@@ -1,6 +1,10 @@
 /** All blog posts as a collection. */
-export const getAllPosts = collection => {
-  return collection.getFilteredByGlob('./src/chapters/**/*.md');
+export const getEnPosts = collection => {
+  return collection.getFilteredByGlob('./src/en/chapters/**/*.md');
+};
+
+export const getEsPosts = collection => {
+  return collection.getFilteredByGlob('./src/es/chapters/**/*.md');
 };
 
 /** All markdown files as a collection for sitemap.xml */

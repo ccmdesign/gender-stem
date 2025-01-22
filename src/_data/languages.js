@@ -4,7 +4,10 @@ export default {
       availableText: 'This page is also available in:',
       skipText: 'Jump to main content',
       ariaPrimary: 'Primary',
-      ariaLang: 'Change language'
+      ariaLang: 'Change language',
+      chapters: 'Chapters',
+      homepage: 'Homepage',
+      resources: 'Resources'
     },
    
     es: {
@@ -12,6 +15,9 @@ export default {
       availableText: 'Esta página también está disponible en:',
       skipText: 'Saltar al contenido principal',
       ariaPrimary: 'Primario',
-      ariaLang: 'Cambiar idioma'
+      ariaLang: 'Cambiar idioma',
+      chapters: 'Capítulos',
+      homepage: 'Página Principal',
+      resources: 'Recursos'
     },
   };

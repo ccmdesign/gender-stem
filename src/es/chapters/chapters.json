@@ -1,0 +1,5 @@
+{
+  "layout": "post",
+  "permalink": "/chapters/{{ title | slugify }}/index.html",
+  "tags": "chapters"
+}

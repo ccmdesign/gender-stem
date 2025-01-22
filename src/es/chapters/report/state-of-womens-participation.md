@@ -1,5 +1,7 @@
 ---
 title: The State of Women's Participation in STEM in the Global South
+permalink: /es/state-of-womens-participation/
+date: 2025-01-16T18:22:02
 ---
 
 ## 2	The State of Women's Participation in STEM in the Global South

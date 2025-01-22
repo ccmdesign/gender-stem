@@ -1,5 +1,6 @@
 ---
 title: Introduction
+permalink: /en/introduciton/
 ---
 
 ## 1    Introdutciton

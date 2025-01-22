@@ -1,5 +1,7 @@
 ---
 title: Appendix
+permalink: /es/appendix/
+date: 2025-01-16T18:42:03
 ---
 
 ## **A Snapshot of our Projects**

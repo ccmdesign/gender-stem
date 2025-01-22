@@ -1,5 +1,7 @@
 ---
 title: What have we learned so far?
+permalink: /es/what-we-learned/
+date: 2025-01-16T18:38:13
 ---
 
 *Importance of Comprehensive Programs:*

@@ -1,5 +1,6 @@
 ---
 title: Executive Summary
+permalink: /en/summary/
 ---
 
 ## Executive Summary
