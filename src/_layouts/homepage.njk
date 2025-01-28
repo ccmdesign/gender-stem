@@ -1,0 +1,32 @@
+---
+layout: base
+brow: "{{ languages[lang].brow }}"
+title: "{{ languages[lang].title }}"
+description: "{{ languages[lang].description }}"
+---
+
+<header>
+  <h1>{{ languages[lang].title }}</h1>
+  {# <h3>{{ languages[lang].description }}</h3> #}
+  <h3>{{ languages[lang].chapters }}</h3>
+  <ul>
+    {% for chapter in collections.getEnPosts %}
+      <li>
+        <a href="{{ chapter.url }}">{{ chapter.data.title | default("Untitled") }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <h3>{{ languages[lang].resources }}</h3>
+  <ul>
+    {% for resource in resources %}
+      <pre>{{ resource | dump }}</pre>
+      {# <li>
+        <a href="{{ resource.url }}">{{ resource.name | default("Untitled") }}</a>
+      </li> #}
+    {% endfor %}
+  </ul>
+</header>
+
+<section>
+  {{ languages[lang].homepage }}
+</section>
