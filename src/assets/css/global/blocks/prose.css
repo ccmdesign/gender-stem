@@ -1,12 +1,12 @@
 /* Based on Andy Bell, https://github.com/Andy-set-studio/personal-site-eleventy */
 
 .prose {
-  --flow-space: var(--space-m-l);
+  --stack-space: var(--space-m-l);
   --wrapper-width: 64rem;
 }
 
 .prose :where(pre, pre + *, figure, figure + *) {
-  --flow-space: var(--space-m-l);
+  --stack-space: var(--space-m-l);
 }
 
 .prose figcaption {
@@ -18,11 +18,11 @@
 }
 
 :where(.prose :is(h2, h3, h4)) {
-  --flow-space: var(--space-xl);
+  --stack-space: var(--space-xl);
 }
 
 :where(.prose :is(h2 + *, h3 + *, h4 + *):not(figure)) {
-  --flow-space: var(--space-m);
+  --stack-space: var(--space-m);
 }
 
 .prose .heading-anchor:is(:hover, :focus) {
