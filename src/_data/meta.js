@@ -1,20 +1,20 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'Claudio Mendonca';
-export const siteDescription = 'Thoughts and notes on web development, design and other things.';
+export const siteName = 'STEM Gender Project';
+export const siteDescription = '';
 export const siteType = 'Personal'; // schema
 export const locale = 'en_EN';
 export const lang = 'en';
 export const skipContent = 'Skip to content';
 export const author = {
-  name: 'Claudio Mendonca', // i.e. Lene Saile - page / blog author's name. Must be set.
+  name: 'ccm.design', // i.e. Lene Saile - page / blog author's name. Must be set.
   avatar: '/icon-512x512.png', // path to the author's avatar. In this case just using a favicon.
-  email: 'claudio@ccmdesign.ca', // i.e. hola@lenesaile.com - email of the author
+  email: 'hello@ccmdesign.ca', // i.e. hola@lenesaile.com - email of the author
   website: 'https://www.claudiomendonca.com', // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const creator = {
-  name: 'Claudio Mendonca', // i.e. Lene Saile - page / blog author's name. Must be set.
-  email: 'claudio@ccmdesign.ca', // i.e. hola@lenesaile.com - email of the author
-  website: 'https://www.claudiomendonca.com', // i.e. https.://www.lenesaile.com - the personal site of the author
+  name: 'ccm.design', // i.e. Lene Saile - page / blog author's name. Must be set.
+  email: 'hello@ccmdesign.ca', // i.e. hola@lenesaile.com - email of the author
+  website: 'https://www.ccmdesign.ca', // i.e. https.://www.lenesaile.com - the personal site of the author
 };
 export const pathToSvgLogo = 'src/assets/svg/misc/logo.svg'; // used for favicon generation
 export const themeColor = '#DD4462'; //  Manifest: defines the default theme color for the application
