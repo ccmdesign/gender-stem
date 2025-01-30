@@ -4,13 +4,13 @@
   "items": [
     {
       "name": "Display",
-      "description": "Display font stack for headings and large text. ",
-      "value": ["Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+      "description": "Display font stack for headings and large text.",
+      "value": ["Gambarino", "Georgia", "serif"]
     },
     {
       "name": "Base",
-      "description": "Base font stack for body text. Inclusive Sans is a free, friendly and clean typeface made for enhanced legibility. oliviaking.com/inclusive-sans",
-      "value": ["Inclusive Sans", "system-ui", "sans-serif"]
+      "description": "Base font stack for body text.",
+      "value": ["Inter", "Inclusive Sans", "system-ui", "sans-serif"]
     },
     {
       "name": "Mono",
@@ -24,6 +24,11 @@
         "DejaVu Sans Mono",
         "monospace"
       ]
+    },
+    {
+      "name": "Brow",
+      "description": "Brow font stack for specific stylistic text.",
+      "value": ["Clash", "serif"]
     }
   ]
 }
