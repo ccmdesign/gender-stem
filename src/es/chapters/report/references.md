@@ -1,7 +1,6 @@
 ---
 title: References
-permalink: /es/references/
-date: 2025-01-16T18:51:50
+permalink: /es/chapters/report/references/
 ---
 
 ## 7    References
@@ -16,7 +15,7 @@ National Center for Women & Information Technology. (2016). Women in Tech: The F
 National Science Foundation. (2021). Women, Minorities, and Persons with Disabilities in Science and Engineering: 2021. Arlington, VA: National Science Foundation. https://ncses.nsf.gov/pubs/nsf21321/report/persons-with-disability
 OECD. (2019). Education at a Glance 2019: OECD Indicators. Paris: OECD Publishing. Retrieved from https://www.oecd.org/education/education-at-a-glance/
 OECD (2020), Main Science and Technology Indicators, Volume 2019 Issue 2, OECD Publishing, Paris, https://doi.org/10.1787/g2g9ff07-en.
-UNESCO. (2017). Cracking the code: Girls’ and women’s education in science, technology, engineering and mathematics (STEM). Montreal: UNESCO Institute for Statistics. Retrieved from http://uis.unesco.org/sites/default/files/documents/cracking-the-code-girls-and-womens-education-in-stem-2017-en.pdf 
+UNESCO. (2017). Cracking the code: Girls' and women's education in science, technology, engineering and mathematics (STEM). Montreal: UNESCO Institute for Statistics. Retrieved from http://uis.unesco.org/sites/default/files/documents/cracking-the-code-girls-and-womens-education-in-stem-2017-en.pdf 
 UNESCO. (2018). UIS Fact Sheet No. 51: Women in Science. Montreal: UNESCO Institute for Statistics. Retrieved from http://uis.unesco.org/sites/default/files/documents/fs51-women-in-science-2018-en.pdf
 UNESCO. (2019). UIS Fact Sheet No. 55: Women in Science. Montreal: UNESCO Institute for Statistics. Retrieved from http://uis.unesco.org/sites/default/files/documents/fs55-women-in-science-2019-en.pdf
 UNESCO. (2020). Taking stock of progress towards gender equality in the water domain: where do we stand 25 years after the Beijing Declaration?. Paris: UNESCO. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000373663

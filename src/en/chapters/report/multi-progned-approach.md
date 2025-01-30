@@ -13,7 +13,8 @@ Projects from across the Breaking Barriers Network have worked diligently to beg
 
 To foster greater gender equity in university settings, one of our projects in Zimbabwe introduced gender audits in both academic and workplace environments. These audits assess institutional practices and policies to identify gender disparities and improve accountability. Gender mainstreaming strategies were also put in place, ensuring that equity is embedded in the organizational culture and that gender-based violence, harassment, and discrimination are actively prevented. These efforts have created safer, more inclusive environments where women can thrive, free from systemic barriers.
 
-**What’s needed?** A focus on evaluating existing gender-responsive policies at national and institutional levels, identifying gaps and areas for improvement to ensure alignment with national science priorities. There is a need to explore the impact of advocacy efforts on women's representation in leadership and decision-making roles within STEM, generating evidence to support policy refinement.
+#### What’s needed?
+A focus on evaluating existing gender-responsive policies at national and institutional levels, identifying gaps and areas for improvement to ensure alignment with national science priorities. There is a need to explore the impact of advocacy efforts on women's representation in leadership and decision-making roles within STEM, generating evidence to support policy refinement.
 
 ### 3.2	Leveraging Data to Address Gender Disparities
 
@@ -23,7 +24,8 @@ Existing data collection efforts go beyond gathering statistics; projects like t
 
 Some projects are beginning to develop digital platforms, as these also play a key role in promoting gender equality. By showcasing the contributions of women in traditionally male-dominated fields such as agriculture and ICT, these platforms help enhance visibility and recognition of women’s roles in STEM, while contributing to a larger body of evidence needed to advocate for policy changes.
 
-**What’s needed?** We must prioritize the collection and analysis of comprehensive data on the factors contributing to attrition and low participation rates among marginalized groups in STEM, focusing on existing mechanisms and platforms for institutional and national-level data collection. Future efforts should examine high-risk moments for dropout across the educational spectrum and during transitions into the workforce, aiming to develop targeted interventions based on empirical findings to address these critical gaps.
+#### What’s needed?
+We must prioritize the collection and analysis of comprehensive data on the factors contributing to attrition and low participation rates among marginalized groups in STEM, focusing on existing mechanisms and platforms for institutional and national-level data collection. Future efforts should examine high-risk moments for dropout across the educational spectrum and during transitions into the workforce, aiming to develop targeted interventions based on empirical findings to address these critical gaps.
 
 ### 3.3	Fostering Leadership and Mentorship for Women in STEM
 
@@ -33,7 +35,8 @@ Teams have also fostered partnerships with advocacy groups and networks, such as
 
 In addition, leadership programs have emphasized the need for intersectionality, ensuring that women from diverse backgrounds, including those from marginalized and underrepresented communities, are prioritized in leadership and mentorship initiatives. This inclusivity ensures that decision-making processes in STEM are reflective of a wide range of voices and experiences. PEPMI acknowledged this gap in intersectional thinking at the university level, developing a scholarship program directly targeting Indigenous women otherwise unable to pursue studies in STEM in Mexico. 
 
-**What’s needed?** Explore the effectiveness of mentorship frameworks in supporting women, particularly those from underrepresented groups, in STEM fields. Future efforts should assess the impact of partnerships with advocacy organizations and digital platforms in enhancing mentorship connections, as well as investigate leadership training programs that equip women with the necessary skills and confidence to assume decision-making roles.
+#### What’s needed?
+Explore the effectiveness of mentorship frameworks in supporting women, particularly those from underrepresented groups, in STEM fields. Future efforts should assess the impact of partnerships with advocacy organizations and digital platforms in enhancing mentorship connections, as well as investigate leadership training programs that equip women with the necessary skills and confidence to assume decision-making roles.
 
 ### 3.4	Ensuring Support Across Education and Career Pathways
 
@@ -43,5 +46,6 @@ At the policy level, certain projects have been instrumental in shaping national
 
 Furthermore, project teams have scaled these support mechanisms beyond individual institutions, working with inter-university networks and regional bodies to ensure that women across different sectors and geographies receive the support they need to succeed. These efforts include the development of regional mentorship frameworks, scholarship programs, and gender awareness programs that create continuity in support as women move from education to the workforce. By ensuring coordinated action between educational institutions, advocacy groups, government agencies, and industry, we are building a seamless pathway for women to enter and thrive in STEM careers. 
 
-**What’s needed?** Investigate strategies to create a seamless support system that bridges education and workforce transitions for women in STEM. We must explore collaborative approaches among educational institutions, government agencies, and industry partners to implement gender-sensitive curricula, capacity-building initiatives, and re-integration programs. Future research needs to address the prevalence and impact of gender-based violence and discrimination in academic and professional settings, providing recommendations for fostering safe and supportive environments. 
+#### What’s needed?
+Investigate strategies to create a seamless support system that bridges education and workforce transitions for women in STEM. We must explore collaborative approaches among educational institutions, government agencies, and industry partners to implement gender-sensitive curricula, capacity-building initiatives, and re-integration programs. Future research needs to address the prevalence and impact of gender-based violence and discrimination in academic and professional settings, providing recommendations for fostering safe and supportive environments. 
 

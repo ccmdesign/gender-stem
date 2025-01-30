@@ -11,14 +11,15 @@ In recent years, awareness of gender inequities in STEM has grown significantly,
 Research emerging from the **Breaking Barriers Network** spans across Latin America and Africa, encompassing projects that address various challenges to women’s participation and leadership in STEM, often focusing on specific STEM disciplines or target institutions where they hope to see change. The project teams that make up the network have developed evidence-based strategies, established collaborative networks, and influenced policy changes to support gender equality in STEM. Bringing Southern perspectives, context-specific interventions and evidence-based policies, the network has co-created a global research agenda, carving a path forward. 
 
 
-What have we learned so far?
+### What have we learned so far?
+
 Our researchers have highlighted the effectiveness of comprehensive programs that combine educational interventions with organizational learning processes. These programs address barriers at multiple levels and create supportive environments for women. Participatory research methods have been particularly valuable, ensuring that women’s perspectives are included and addressed, leading to more gender-sensitive research approaches.
 
 Mentorship and role models have emerged as crucial elements for inspiring and supporting young women and early career scientists in STEM. Initiatives that provide mentorship and highlight female role models help combat negative stereotypes and promote broader social and gender equity goals. Effective policy integration and implementation into these initiatives have also been essential for supporting women’s inclusion in leadership roles within STEM fields.
 
 Community engagement and education have been key to addressing cultural and social barriers. Programs that involve community members and address traditional norms have been effective in promoting gender equality and supporting women’s participation in STEM. Transformative learning approaches, which focus on changing beliefs, attitudes, and behaviors, have been necessary for creating lasting change and promoting gender equity in STEM fields.
 
-Recommendations
+### Recommendations
 Achieving gender equity in STEM requires a multifaceted approach involving multiple stakeholders, across levels of impact and change. The **Breaking Barriers Network** demonstrates the potential for impactful change through targeted interventions and collaborative effort, but more is still needed to achieve lasting changes to institutions and the broader science system. Sustaining and scaling these efforts necessitates involving policymakers and key stakeholders from the outset to ensure lasting impact. There is a need to continue to build on these foundations and expand successful programs.
 
 To move forward, it is essential to increase the visibility of women scientists through media campaigns and educational materials, expand outreach and mentorship activities, and combat entrenched systemic and systematic barriers with gender-sensitive policies and campaigns. Providing incentives and scholarships to support girls and women in STEM studies, developing interactive and equitable learning environments, and conducting gender audits and developing mainstreaming strategies are also crucial steps to see lasting change to educational and science institutions.
