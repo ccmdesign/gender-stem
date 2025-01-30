@@ -35,7 +35,7 @@ Adjust fallbacks if modern color syntax not supported for text and bg variants. 
   --color-dark: var(--color-base-dark);
   --color-light: var(--color-base-light);
   --color-text: var(--color-base-dark);
-  --color-bg: var(--color-base-light);
+  --color-bg: var(--color-primary-highlight);
   --color-base: var(--color-base-dark);
   --color-primary: var(--color-primary-highlight);
   --color-secondary: var(--color-secondary-highlight);
