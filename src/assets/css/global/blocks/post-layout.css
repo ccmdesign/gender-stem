@@ -22,21 +22,31 @@
   .post-layout > :where(h2, h3, h4, .left-column) {
     text-align: right;
     padding-inline-end: var(--space-s-m);
+    padding-block-end: var(--space-s-m);
+  }
+
+  .post-layout h3 + * {
+    padding-block-start: var(--space-xl-2xl);
+  }
+
+  .post-layout h4 + * {
+    padding-block-start: var(--space-m-l);
+  }
+
+  .post-layout h5 + * {
+    padding-block-start: var(--space-s-m);
   }
 }
 
-.post-layout h3,
-.post-layout h3 + * {
+.post-layout h3 {
   padding-block-start: var(--space-xl-2xl);
 }
 
-.post-layout h4,
-.post-layout h4 + * {
+.post-layout h4 {
   padding-block-start: var(--space-m-l);
 }
 
-.post-layout h5,
-.post-layout h5 + * {
+.post-layout h5 {
   padding-block-start: var(--space-s-m);
 }
 
