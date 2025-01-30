@@ -38,6 +38,7 @@
   }
 }
 
+.post-layout h2, 
 .post-layout h3 {
   padding-block-start: var(--space-xl-2xl);
 }
