@@ -1,0 +1,53 @@
+.post-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  gap: var(--space-xs);
+  padding-inline: var(--space-s-m);
+
+
+}
+
+@media (min-width: 768px) {
+  .post-layout {
+    max-width: 1200px;
+    margin-inline: auto;
+    padding-inline: var(--space-m-l);
+    grid-template-columns: 1fr 2fr;
+  }
+
+  .post-layout > * { grid-column:2/3; }
+  .post-layout > :where(h2, h3, h4, .left-column) { grid-column:1/2; }
+
+  .post-layout > :where(h2, h3, h4, .left-column) {
+    text-align: right;
+    padding-inline-end: var(--space-s-m);
+  }
+}
+
+.post-layout h3,
+.post-layout h3 + * {
+  padding-block-start: var(--space-xl-2xl);
+}
+
+.post-layout h4,
+.post-layout h4 + * {
+  padding-block-start: var(--space-m-l);
+}
+
+.post-layout h5,
+.post-layout h5 + * {
+  padding-block-start: var(--space-s-m);
+}
+
+
+.post-layout .list {
+  padding-block: 0;
+  margin-block: 0;
+}
+
+.post-layout .list li + li {
+  padding-block-start: var(--space-xs-s) !important;
+}
+
+
