@@ -3,15 +3,22 @@ title: Introduction
 permalink: /en/introduciton/
 ---
 
-### Introduction
-#### The importance of women's participation and leadership in STEM.
+### The importance of women's participation and leadership in STEM.
+
+
 Achieving gender equality in science is not only a moral imperative but also crucial for advancing scientific innovation. The underrepresentation of women in science deprives the field of diverse perspectives and limits the development of multifaceted solutions. For instance, in many developing countries, women are primarily responsible for water collection. Involving them in water management projects ensures solutions that reflect their needs and lived experiences. Despite this, women's participation in research and leadership within the water sector remains minimal (UNESCO, 2021).  Historically, the male-dominated field of medical research has overlooked crucial sex differences in medicine. However, the inclusion of women in this field has been transformative, leading to groundbreaking scientific discoveries that significantly enhance women's health and well-being (Kozlowski et al., 2022).   
+
+![image-test](assets/images/image-test.jpg)
 
 In various forms of media, such as those that highlight the often-overlooked contributions of women in STEM, we observe that gender disparities in recognition and opportunity are a widespread issue. For instance, many women have made critical contributions to significant scientific advancements, yet their achievements have frequently been undervalued due to gender biases. This pattern of systemic erasure of women's accomplishments in science is a global phenomenon. Women scientists around the world, including those in the Global South, continue to face substantial challenges and barriers due to their gender and the socio-political environments in which they work (OECD, 2020).
 
 The gender gap in STEM is not a result of individual choices but is shaped by systemic barriers, including gender biases, stereotypes, and structural inequalities within educational institutions and workplaces (UNESCO, 2021). Uncovering and addressing these barriers is a necessary step in driving development around the world.
 
-### The global context: Challenges and opportunities identified through past work and investments
+<hgroup>
+  <h4>The global context</h4>
+  <h3>Challenges and opportunities identified through past work and investments</h3>
+</hgroup>
+
 
 Significant progress has been made in highlighting the lack of gender equality in STEM fields, yet non-diverse science and technology sectors remain the norm. According to UNESCO's 2024 report on the gender gap in science, women represent only a third of researchers globally, with even lower representation in leadership roles and senior positions—a statistic that has remained almost unchanged in the past decade.  Data on other marginalized groups is often unavailable or unrecognized.
 
@@ -25,7 +32,8 @@ Inequalities exist across multiple and intersecting categories of identity, incl
 
 ### The Breaking Barriers Network
 
-As part of its [2030 Strategy](https://idrc-crdi.ca/en/stories/more-sustainable-and-inclusive-world), IDRC has committed to promoting gender equality in STEM. IDRC recognizes that gender equality is crucial for scientific innovation and development. By addressing gender disparities, IDRC aims to create a more inclusive and effective research environment. 
+As part of its [2030 Strategy](https://idrc-crdi.ca/en/stories/more-sustainable-and-inclusive-world), IDRC has committed to promoting gender equality in STEM. IDRC recognizes that gender equality is crucial for scientific innovation and development. By addressing gender disparities, IDRC aims to create a more inclusive and effective research environment.
+
 IDRC funded the CAD$3,3M ["Breaking systemic barriers to women's participation in science"](https://idrc-crdi.ca/en/news/breaking-barriers-understanding-obstacles-facing-women-stem-global-south) initiative in 2020 t  o advance its commitment to gender equity and build on its significant experience working to promote inclusivity across science systems in the Global South. The cohort of 10 projects analyzed trends of gendered participation in Southern science systems and the embedded systemic and systematic inequities that prevent women from advancing in a range of fields and sectors in Latin America and sub-Saharan Africa. 
 
 These studies generated evidence on the unique obstacles facing women and other marginalized groups in STEM in low-income countries. Building on this pilot, in 2021 funding was expanded for IDRC's [Gender in STEM (GIST)](https://idrc-crdi.ca/en/initiative/gender-stem) initiative. The CAD$7.3 million investment to advance gender analysis and women's leadership in STEM fields in the Global South has funded 6 projects across Latin America, the Caribbean and South Asia. These projects have aimed to add to existing and emerging evidence by:
@@ -36,31 +44,31 @@ These studies generated evidence on the unique obstacles facing women and other 
 
 Research projects funded through both cohorts, as well as IDRC's ongoing work on providing scholarships for [early career women scientists](https://idrc-crdi.ca/en/project/early-career-fellowships-gender-equality-science-2022-2026) through collaboration with the [Organization for Women in Science for the Developing World (OWSD)](https://owsd.net/), are showing results and findings relevant to various stakeholders across the Global North and South. The cohort of researchers, that make up these various initiatives, now referred to as the **Breaking Barriers Network**, is gathering and building advocacy and momentum across its relevant geographies. From conducting a gender audit at a major university in Zimbabwe to an innovative fellowship program supporting Indigenous women scientists in Mexico, the **Breaking Barriers Network** is building bridges to advance women's sustained participation and leadership across STEM fields. 
 
-INSERT map graphic
+<!-- <ul class="left-column">
+<li><a href="https://idrc.ca/en/project/constructing-public-policy-effective-participation-women-science-technology-engineering-and" target="_blank">Constructing public policy for effective participation of women in science, technology, engineering and mathematics in Bolivia</a></li>
 
-[*__Constructing public policy for effective participation of women in science, technology, engineering and mathematics in Bolivia__*](https://idrc.ca/en/project/constructing-public-policy-effective-participation-women-science-technology-engineering-and)  
+<li><a href="https://idrc.ca/en/project/removing-barriers-recruiting-retaining-and-advancing-women-science-and-technology-fields" target="_blank">Removing barriers to recruiting, retaining and advancing women in science and technology fields for promoting green industries in Colombia</a></li>
 
-[*__Removing barriers to recruiting, retaining and advancing women in science and technology fields for promoting green industries in Colombia__*](https://idrc.ca/en/project/removing-barriers-recruiting-retaining-and-advancing-women-science-and-technology-fields)
+<li><a href="https://idrc.ca/en/project/supervision-and-mentorship-women-science-technology-engineering-and-mathematics" target="_blank">Supervision and Mentorship of Women in Science Technology Engineering and Mathematics Postgraduate Training Program in Sub-Saharan Africa</a></li>
 
-[*__Supervision and Mentorship of Women in Science Technology Engineering and Mathematics Postgraduate Training Program in Sub-Saharan Africa__*](https://idrc.ca/en/project/supervision-and-mentorship-women-science-technology-engineering-and-mathematics)
+<li><a href="https://idrc.ca/en/project/bridging-gender-equality-gap-science-womens-university-africa" target="_blank">Bridging the Gender Equality Gap in Science at the Women's University in Africa</a></li>
 
-[*__Bridging the Gender Equality Gap in Science at the Women's University in Africa__*](https://idrc.ca/en/project/bridging-gender-equality-gap-science-womens-university-africa)
+<li><a href="https://idrc.ca/en/project/eliminating-barriers-womens-participation-science-study-african-research-universities" target="_blank">Eliminating Barriers to Women's Participation in Science - A Study of the African Research Universities Alliance</a></li>
 
-[*__Eliminating Barriers to Women's Participation in Science - A Study of the African Research Universities Alliance__*](https://idrc.ca/en/project/eliminating-barriers-womens-participation-science-study-african-research-universities)
+<li><a href="https://idrc.ca/en/project/women-engineering-education-and-careers-benin-and-ghana" target="_blank">Women in engineering education and careers in Benin and Ghana</a></li>
 
-[*__Women in engineering education and careers in Benin and Ghana__*](https://idrc.ca/en/project/women-engineering-education-and-careers-benin-and-ghana)
+<li><a href="https://idrc.ca/en/project/transforming-institutions-advance-women-leaders-science-technology-engineering-and" target="_blank">Transforming Institutions to Advance women leaders in Science Technology Engineering and Mathematics (SISTARS): Lessons from Ghana and Kenya</a></li>
 
-[*__Transforming Institutions to Advance women leaders in Science Technology Engineering and Mathematics (SISTARS): Lessons from Ghana and Kenya__*](https://idrc.ca/en/project/transforming-institutions-advance-women-leaders-science-technology-engineering-and)
+<li><a href="https://idrc.ca/en/project/pathway-change-towards-gender-justice-stem-research-africa-gejusta" target="_blank">Pathway to Change: Towards Gender Justice in STEM Research in Africa (GeJuSTA)</a></li>
 
-[*__Pathway to Change: Towards Gender Justice in STEM Research in Africa (GeJuSTA)__*](https://idrc.ca/en/project/pathway-change-towards-gender-justice-stem-research-africa-gejusta)
+<li><a href="https://idrc.ca/en/project/strengthening-gender-inclusion-agricultural-research-more-conclusive-results-west-africa" target="_blank">Strengthening gender inclusion in agricultural research for more conclusive results in West Africa</a></li>
 
-[*__Strengthening gender inclusion in agricultural research for more conclusive results in West Africa__*](https://idrc.ca/en/project/strengthening-gender-inclusion-agricultural-research-more-conclusive-results-west-africa)
+<li><a href="https://idrc.ca/en/project/latin-american-open-data-gender-equality-policies-focusing-leadership-stem" target="_blank">Latin American open data for gender-equality policies focusing on leadership in STEM</a></li>
 
-[*__Latin American open data for gender-equality policies focusing on leadership in STEM__*](https://idrc.ca/en/project/latin-american-open-data-gender-equality-policies-focusing-leadership-stem)
+<li><a href="https://idrc-crdi.ca/en/project/supporting-indigenous-women-science-technology-engineering-and-mathematics-careers-mexico" target="_blank">Supporting indigenous women in science, technology, engineering and mathematics careers in Mexico and Central America</a></li>
 
-[*__Supporting indigenous women in science, technology, engineering and mathematics careers in Mexico and Central America__*](https://idrc-crdi.ca/en/project/supporting-indigenous-women-science-technology-engineering-and-mathematics-careers-mexico)
-
-[*__Supporting women's leadership in science, technology, and innovation through early-career fellowships (2017–2021)__*](https://idrc-crdi.ca/en/project/supporting-womens-leadership-science-technology-and-innovation-through-early-career)
+<li><a href="https://idrc-crdi.ca/en/project/supporting-womens-leadership-science-technology-and-innovation-through-early-career" target="_blank">Supporting women's leadership in science, technology, and innovation through early-career fellowships (2017–2021)</a></li>
+</ul> -->
 
 To date, the Breaking Barriers Network has collectively advanced work in different areas:
 - Developed an Evidence-base: Generating evidence on how to improve gender equality and diversity in STEM, through scoping and the testing of promising interventions. 
@@ -77,7 +85,7 @@ Recognizing the critical need for ongoing efforts across the educational spectru
 
 As part of the **Breaking Barriers Network**, researchers from Latin America and Africa have collaborated to develop a research agenda grounded in existing knowledge, experience, and best practices identified by experts working in diverse contexts. Despite the persistent challenges to women's participation in STEM in both the Global North and South, these researchers have demonstrated that intentional, context-specific, and engaged interventions can help bridge the gender gap in STEM.
 
-[INSERT Theory of Change graphic]
+
 
 The **Breaking Barriers Network** has crafted an evidence and experience-based research agenda, pinpointing key areas for future research and broader implementation. The main areas of focus and action include:
 

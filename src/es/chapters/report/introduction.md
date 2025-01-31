@@ -1,17 +1,17 @@
 ---
 title: Introduction
-permalink: /es/chapters/report/introduction/
+permalink: /es/introduciton/
 ---
 
-### Introduction
-#### The importance of women's participation and leadership in STEM.
+### The importance of women's participation and leadership in STEM.
 Achieving gender equality in science is not only a moral imperative but also crucial for advancing scientific innovation. The underrepresentation of women in science deprives the field of diverse perspectives and limits the development of multifaceted solutions. For instance, in many developing countries, women are primarily responsible for water collection. Involving them in water management projects ensures solutions that reflect their needs and lived experiences. Despite this, women's participation in research and leadership within the water sector remains minimal (UNESCO, 2021).  Historically, the male-dominated field of medical research has overlooked crucial sex differences in medicine. However, the inclusion of women in this field has been transformative, leading to groundbreaking scientific discoveries that significantly enhance women's health and well-being (Kozlowski et al., 2022).   
 
 In various forms of media, such as those that highlight the often-overlooked contributions of women in STEM, we observe that gender disparities in recognition and opportunity are a widespread issue. For instance, many women have made critical contributions to significant scientific advancements, yet their achievements have frequently been undervalued due to gender biases. This pattern of systemic erasure of women's accomplishments in science is a global phenomenon. Women scientists around the world, including those in the Global South, continue to face substantial challenges and barriers due to their gender and the socio-political environments in which they work (OECD, 2020).
 
 The gender gap in STEM is not a result of individual choices but is shaped by systemic barriers, including gender biases, stereotypes, and structural inequalities within educational institutions and workplaces (UNESCO, 2021). Uncovering and addressing these barriers is a necessary step in driving development around the world.
 
-### The global context: Challenges and opportunities identified through past work and investments
+#### The global context
+### Challenges and opportunities identified through past work and investments
 
 Significant progress has been made in highlighting the lack of gender equality in STEM fields, yet non-diverse science and technology sectors remain the norm. According to UNESCO's 2024 report on the gender gap in science, women represent only a third of researchers globally, with even lower representation in leadership roles and senior positions—a statistic that has remained almost unchanged in the past decade.  Data on other marginalized groups is often unavailable or unrecognized.
 
@@ -35,8 +35,6 @@ These studies generated evidence on the unique obstacles facing women and other 
 - Integrating gender analysis as a standard component of scientific research
 
 Research projects funded through both cohorts, as well as IDRC's ongoing work on providing scholarships for [early career women scientists](https://idrc-crdi.ca/en/project/early-career-fellowships-gender-equality-science-2022-2026) through collaboration with the [Organization for Women in Science for the Developing World (OWSD)](https://owsd.net/), are showing results and findings relevant to various stakeholders across the Global North and South. The cohort of researchers, that make up these various initiatives, now referred to as the **Breaking Barriers Network**, is gathering and building advocacy and momentum across its relevant geographies. From conducting a gender audit at a major university in Zimbabwe to an innovative fellowship program supporting Indigenous women scientists in Mexico, the **Breaking Barriers Network** is building bridges to advance women's sustained participation and leadership across STEM fields. 
-
-INSERT map graphic
 
 [*__Constructing public policy for effective participation of women in science, technology, engineering and mathematics in Bolivia__*](https://idrc.ca/en/project/constructing-public-policy-effective-participation-women-science-technology-engineering-and)  
 

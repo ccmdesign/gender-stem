@@ -1,25 +1,26 @@
 ---
 title: Appendix
-permalink: /es/chapters/report/appendix/
+permalink: /es/appendix/
 ---
 
 ## A Snapshot of our Projects
 
-*Supporting women's leadership in science, technology, and innovation through early-career fellowships (2017–2021)*
-*Background*
+### Supporting women’s leadership in science, technology, and innovation through early-career fellowships (2017–2021)
+
+#### Background
 
 The OWSD Early Career Fellowship is an award of up to USD 50,000, aimed at supporting women who have completed their PhDs in STEM fields. The fellowship is designed for those employed at academic or research institutes in various countries in the developing world.
 
-### Objectives
+#### Objectives
 - Empower early career women scientists to lead significant research projects, thereby increasing the representation of women in STEM fields.
 - Establish and maintain international standards of research at their institutions, creating environments that attract global scholars and foster high-quality scientific inquiry.
 - Promote collaboration between fellows and international researchers, industry partners, and other stakeholders to enhance the impact and reach of their research.
 - Provide training and opportunities for fellows to develop leadership and management skills, enabling them to become leaders in their fields and mentors for future generations of women scientists.
 
-### Implementation
+#### Implementation
 The fellowship provides funding for research-related costs, linking with industry partners, and outreach activities. Fellows receive training in grant management, leadership, and entrepreneurial skills. The program requires applicants to have guaranteed employment at their institution and significant time spent in the eligible country.
 
-### Impact
+#### Impact
 - Capacity Strengthening: The program has significantly enhanced the research skills, leadership, and communication abilities of Early Career (EC) fellows. 
 - Career Progression: About 70% of EC fellows reported promotions or increased responsibilities within their institutions. They gained respect and recognition in their scientific fields.
 - Institutional Benefits: The fellowships have also strengthened the institutions where fellows work by providing new equipment and enhancing the visibility of research, which opens doors for further collaborations.
@@ -39,7 +40,7 @@ This project in Colombia aimed to promote the role of women in STEM fields relat
 The project implemented a combination of soft strategies (e.g., recognizing female leadership in STEM, inspiring women in STEM) and hard strategies (e.g., green prototypes for experiential environmental training). The project adopted a learning framework to guide the transition towards more inclusive and equitable STEM education processes.
 
 #### Impact
-- Increased Participation: Through targeted interventions, women's participation in green STEM fields in Colombia increased. In collaboration with 15 women-led rural production units, the project applied STEM knowledge to reduce negative environmental impacts via sustainable and circular production practices. These units also became learning environments to promote gender equity in STEM, rurality, and the green economy.
+- Increased Participation: Through targeted interventions, women’s participation in green STEM fields in Colombia increased. In collaboration with 15 women-led rural production units, the project applied STEM knowledge to reduce negative environmental impacts via sustainable and circular production practices. These units also became learning environments to promote gender equity in STEM, rurality, and the green economy.
 - Skill Development: The project empowered both female apprentices and instructors by providing experiential learning opportunities that built capacities in green technologies and environmental stewardship. One TVET Centre's hands-on training programs ensured the transfer of STEM-environmental knowledge, positioning 15 rural women and 7 women experts as key STEM referents. These role models helped overturn unfounded beliefs about women's capacities in science and technology.
 - Organizational Change: One TVET Centre in Colombia facilitated organizational learning and transformative learning processes, resulting in systemic change within TVET programs. Four regional TVET centers began leading the way in gender-equitable STEM education.
 - Empowerment: The combination of experiential learning and visible role models inspired female apprentices and instructors to pursue and excel in STEM careers. Their success in these fields challenged deep-seated stereotypes and created new pathways for future generations of women in science and technology.
@@ -47,18 +48,18 @@ The project implemented a combination of soft strategies (e.g., recognizing fema
 ### Women in engineering education and careers in Benin and Ghana
 
 #### Background
-This project aimed to investigate the trends of women's participation in engineering education and careers in Ghana and Benin. The project sought to identify systemic barriers and propose recommendations for eliminating these barriers.
+This project aimed to investigate the trends of women’s participation in engineering education and careers in Ghana and Benin. The project sought to identify systemic barriers and propose recommendations for eliminating these barriers.
 
 #### Objectives
-- Investigate the trends of women's participation in engineering education and careers in Ghana and Kenya.
-- Identify systemic barriers to women's participation and leadership in engineering fields.
-- Propose recommendations for eliminating these barriers and supporting women's advancement in STEM careers.
+- Investigate the trends of women’s participation in engineering education and careers in Ghana and Kenya.
+- Identify systemic barriers to women’s participation and leadership in engineering fields.
+- Propose recommendations for eliminating these barriers and supporting women’s advancement in STEM careers.
 
 #### Implementation
 The project included focus group discussions, surveys, and policy analysis to understand the challenges women face in engineering education and careers. The project also involved key informant interviews with senior management, human resource managers, female and male leaders, and young experts.
 
 #### Impact
-- Policy Recommendations: The project provided valuable insights and recommendations for policy integration and *implementation* to support women's inclusion in leadership roles within engineering fields. 
+- Policy Recommendations: The project provided valuable insights and recommendations for policy integration and *implementation* to support women’s inclusion in leadership roles within engineering fields. 
 - Supportive Mechanisms: The project highlighted the importance of gender advocacy centers and mentorship programs in advancing women in STEM careers.
 - Awareness and Advocacy: The project raised awareness about the challenges women face in engineering education and careers and advocated for more inclusive and supportive policies and practices.
 - Empowerment: The project empowered women by providing them with the knowledge and resources needed to navigate their careers and achieve leadership positions in engineering fields.
@@ -67,7 +68,7 @@ The project included focus group discussions, surveys, and policy analysis to un
 ### Transforming Institutions to Advance women leaders in Science Technology Engineering and Mathematics (SISTARS): lessons from Ghana and Kenya*
 
 #### Background
-The SISTARS project focuses on addressing the underrepresentation of women in leadership roles within STEM fields, particularly in the water-related sectors of Ghana and Kenya. Despite various national and institutional policies aimed at promoting gender equality, women continue to face significant barriers in advancing to leadership positions. These barriers include societal expectations, stereotypes, and systemic biases that hinder women's career progression. The project aims to assess and strengthen policies that support women's inclusion in leadership roles, recognizing that diverse leadership teams enhance performance, innovation, and decision-making.
+The SISTARS project focuses on addressing the underrepresentation of women in leadership roles within STEM fields, particularly in the water-related sectors of Ghana and Kenya. Despite various national and institutional policies aimed at promoting gender equality, women continue to face significant barriers in advancing to leadership positions. These barriers include societal expectations, stereotypes, and systemic biases that hinder women’s career progression. The project aims to assess and strengthen policies that support women’s inclusion in leadership roles, recognizing that diverse leadership teams enhance performance, innovation, and decision-making.
 
 ### Objectives
 - Assess Policy and Systemic Institutional Factors: Evaluate the existing policies and systemic institutional factors that provide opportunities for women to attain leadership roles in water-related sectors.
@@ -85,21 +86,21 @@ The project was conducted in two phases across selected institutions in Ghana an
 ### Supporting indigenous women in science, technology, engineering and mathematics careers in Mexico and Central America
 
 #### Background
-- The Programa de Apoyo a Mujeres Indígenas en Ciencia, Tecnología, Ingeniería y Matemáticas (PEPMI) was launched in 2018 by the Centro de Investigaciones y Estudios Superiores en Antropología Social (CIESAS) with funding from the International Development Research Center (IDRC) and the Mexican National Council for Science and Technology (CONACYT). The program aimed to support indigenous women in the early stages of their scientific careers by providing three-year postdoctoral fellowships. This initiative was the first of its kind in Mexico and Latin America, targeting indigenous women with PhDs in STEM fields. The program sought to strengthen their knowledge and skills, linking them to the country's research sector and combating negative stereotypes about indigenous women.
+- The Programa de Apoyo a Mujeres Indígenas en Ciencia, Tecnología, Ingeniería y Matemáticas (PEPMI) was launched in 2018 by the Centro de Investigaciones y Estudios Superiores en Antropología Social (CIESAS) with funding from the International Development Research Center (IDRC) and the Mexican National Council for Science and Technology (CONACYT). The program aimed to support indigenous women in the early stages of their scientific careers by providing three-year postdoctoral fellowships. This initiative was the first of its kind in Mexico and Latin America, targeting indigenous women with PhDs in STEM fields. The program sought to strengthen their knowledge and skills, linking them to the country’s research sector and combating negative stereotypes about indigenous women.
 
 #### Objectives
 - Support Indigenous Women in STEM: Provide postdoctoral fellowships to indigenous women scientists to enhance their knowledge and skills in their areas of specialization.
 - Promote Inclusion and Diversity: Increase the visibility and representation of indigenous women in STEM fields, challenging negative stereotypes and promoting broader social and gender equity goals.
 - Document Educational Trajectories: Study and document the personal profiles, educational trajectories, and academic experiences of the grantees to understand the factors that facilitate or obstruct their progression in STEM careers.
 
-*Implementation*
-- The program awarded scholarships to twelve young indigenous women scientists from various states and ethnic groups in Mexico. The selection process involved leveraging CIESAS's extensive network of contacts and CONACYT's database of scholarship recipients. The program faced initial challenges due to the lack of background, norms, and practices for including indigenous women in research centers. Despite these challenges, the program garnered strong support from certain sectors of the research institutes. The grantees conducted their postdoctoral research at public research centers, where they received mentorship and support from academic staff.
+#### Implementation
+- The program awarded scholarships to twelve young indigenous women scientists from various states and ethnic groups in Mexico. The selection process involved leveraging CIESAS’s extensive network of contacts and CONACYT’s database of scholarship recipients. The program faced initial challenges due to the lack of background, norms, and practices for including indigenous women in research centers. Despite these challenges, the program garnered strong support from certain sectors of the research institutes. The grantees conducted their postdoctoral research at public research centers, where they received mentorship and support from academic staff.
 
 #### Impact
 - Increased Visibility of Indigenous Women in STEM: The program significantly increased the visibility of indigenous women scientists in Mexico, highlighting their contributions and establishing a positive association between indigenous women and science. This was achieved through the dissemination of their research and success stories, which served as role models for younger generations.
 - Enhanced Professional Development: The postdoctoral fellowships provided the grantees with valuable opportunities to advance their scientific careers. They were able to strengthen their knowledge and skills, conduct cutting-edge research, and gain recognition in their respective fields. This professional development was crucial for their career progression and for breaking into leadership roles in STEM.
 - Combating Negative Stereotypes: By showcasing the achievements of indigenous women scientists, the program effectively challenged and combated negative stereotypes about indigenous women. This helped to change societal perceptions and promote a more inclusive and equitable environment in STEM fields.
-- Policy Influence and Recommendations: The findings from the program informed national and institutional policies aimed at promoting gender and social equity in STEM. The program's success demonstrated the importance of targeted support for underrepresented groups and provided a model for similar initiatives in other contexts. 
+- Policy Influence and Recommendations: The findings from the program informed national and institutional policies aimed at promoting gender and social equity in STEM. The program’s success demonstrated the importance of targeted support for underrepresented groups and provided a model for similar initiatives in other contexts. 
 
 ### Constructing public policy for effective participation of women in science, technology, engineering and mathematics in Bolivia
 

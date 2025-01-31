@@ -1,6 +1,6 @@
 ---
 title: Conclusion and Recommendations
-permalink: /es/chapters/report/conclusion/
+permalink: /es/conclusion/
 ---
 
 The journey towards gender equity in STEM is multifaceted and requires a concerted effort from all stakeholders. The programs, initiatives and research findings outlined highlight the importance of comprehensive programs, participatory research, mentorship, policy integration, community engagement, and transformative learning. These elements are crucial in addressing systemic barriers and fostering an inclusive environment for women in STEM.

@@ -1,6 +1,6 @@
 ---
 title: What have we learned so far?
-permalink: /es/chapters/report/what-we-learned-so-far/
+permalink: /es/what-we-learned/
 ---
 
 ### Importance of Comprehensive Programs
@@ -20,3 +20,4 @@ Addressing cultural and social barriers requires community engagement and educat
 
 ### Transformative Learning
 Transformative learning approaches, which focus on changing beliefs, attitudes, and behaviors, are key to addressing root causes of inequality and generating radical changes at individual, organizational, and educational system levels. These approaches are essential for creating lasting change and promoting gender equity in STEM fields.
+permalink: /es/chapters/report/appendix/
