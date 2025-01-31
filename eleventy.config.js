@@ -82,7 +82,7 @@ export default async function (eleventyConfig) {
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
-  eleventyConfig.addShortcode('image', shortcodes.imageShortcode);
+  eleventyConfig.addAsyncShortcode('image', shortcodes.imageShortcode);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events ---------------------
@@ -105,13 +105,17 @@ export default async function (eleventyConfig) {
     'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`
   });
 
+  // Add these passthrough copies
+  eleventyConfig.addPassthroughCopy("src/assets/images");
+  eleventyConfig.addPassthroughCopy("src/assets/fonts");
+
   // --------------------- Build Settings
   eleventyConfig.setDataDeepMerge(true);
 
   // --------------------- general config
   return {
     markdownTemplateEngine: 'njk',
-
+    htmlTemplateEngine: 'njk',
     dir: {
       output: 'dist',
       input: 'src',
