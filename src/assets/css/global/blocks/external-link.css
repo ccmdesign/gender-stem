@@ -1,4 +1,4 @@
-article
+/* article
   a[href^='http']:not([href*='localhost:8080']):not([href*='eleventy-excellent.netlify.app']):not(.button) {
   padding-inline-end: 0.8em;
 }
@@ -16,8 +16,7 @@ article
   background-position: center;
   background-size: 60% auto;
   /* alternative text rules */
-  content: '(external link)';
+  /* content: '(external link)';
   overflow: hidden;
   white-space: nowrap;
-  text-indent: 1em; /* the width of the icon */
-}
+  text-indent: 1em; /* the width of the icon */ 
