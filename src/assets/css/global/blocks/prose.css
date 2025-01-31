@@ -62,6 +62,25 @@
   border-radius: var(--border-radius);
 }
 
+.prose p a {
+  text-decoration: underline;
+  text-decoration-thickness: 0.14em;
+  text-decoration-color: var(--color-primary);
+  text-decoration-skip-ink: none;
+  transition: text-decoration-thickness 0.2s ease-in-out;
+  /* @seidgy: eu queria fazer a transition desse text-decoration-thickness, mas não consegui */
+  
+}
+
+.prose p a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1em;
+  text-underline-offset: -.85em;
+  text-decoration-color: var(--color-primary);
+}
+
+
+
 @media screen(ltsm) {
   .prose > *,
   .prose a {
