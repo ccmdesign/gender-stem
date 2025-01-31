@@ -28,7 +28,7 @@
     {
       "name": "Brow",
       "description": "Brow font stack for specific stylistic text.",
-      "value": ["ClashDisplay-Variable", "sans-serif"]
+      "value": ["ClashDisplay-Bold", "sans-serif"]
     }
   ]
 }
