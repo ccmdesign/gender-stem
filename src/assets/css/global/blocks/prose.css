@@ -91,3 +91,8 @@
     hyphens: auto;
   }
 }
+
+.brow {
+  font-family: var(--font-brow);
+  font-weight: 700;
+}
