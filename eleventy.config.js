@@ -79,6 +79,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addFilter('shuffle', filters.shuffleArray);
   eleventyConfig.addFilter('alphabetic', filters.sortAlphabetically);
   eleventyConfig.addFilter('slugify', filters.slugifyString);
+  eleventyConfig.addFilter('filterByLang', filters.filterByLang);
 
   // --------------------- Shortcodes
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
@@ -111,6 +112,20 @@ export default async function (eleventyConfig) {
 
   // --------------------- Build Settings
   eleventyConfig.setDataDeepMerge(true);
+
+  // Add collection for ordered report pages
+  eleventyConfig.addCollection("orderedReport", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/**/chapters/report/*.md")
+      .sort((a, b) => {
+        // First sort by language (en/es)
+        const langA = a.inputPath.includes("/en/") ? "en" : "es";
+        const langB = b.inputPath.includes("/en/") ? "en" : "es";
+        if (langA !== langB) return langA.localeCompare(langB);
+        
+        // Then sort by order
+        return (a.data.order || 9999) - (b.data.order || 9999);
+      });
+  });
 
   // --------------------- general config
   return {

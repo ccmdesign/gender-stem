@@ -1,6 +1,7 @@
 ---
 title: Introduction
-permalink: /en/introduciton/
+permalink: /en/introduction/
+order: 2
 ---
 
 ### The importance of women's participation and leadership in STEM.
