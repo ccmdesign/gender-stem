@@ -1,0 +1,13 @@
+.chapter-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  min-height: 100vh;
+}
+
+.chapter-layout__header {
+  grid-column: 1 / 2;
+}
+
+.chapter-layout__content {
+  grid-column: 2 / 3;
+}
