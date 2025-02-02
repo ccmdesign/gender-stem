@@ -94,6 +94,6 @@
 
 .brow {
   font-family: var(--font-brow);
-  font-variation-settings: 'wght' 700; /* Use variable font weight axis */
-  font-feature-settings: 'salt' 1; /* Enable stylistic alternates if needed */
+  font-variation-settings: 'wght' var(--font-weight-bold);
+  font-feature-settings: 'salt' 1;
 }

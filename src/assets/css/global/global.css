@@ -9,10 +9,12 @@
 @import 'base/global-styles.css';
 
 @import-glob 'compositions/*.css';
+
 @import-glob 'blocks/*.css';
+
 @import-glob 'utilities/*.css';
-
-/* debugging */
-/* @import-glob 'tests/*.css'; */
-
 @import 'tailwindcss/utilities';
+/* debugging */
+/* @import-glob 'tests.css'; */
+
+
