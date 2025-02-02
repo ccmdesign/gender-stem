@@ -14,5 +14,10 @@ export default {
   striptags,
   shuffleArray,
   sortAlphabetically,
-  slugifyString
+  slugifyString,
+  filterByLang: (collection, lang) => {
+    return collection.filter(item => {
+      return item.filePathStem && item.filePathStem.startsWith(`/${lang}/`);
+    });
+  }
 };

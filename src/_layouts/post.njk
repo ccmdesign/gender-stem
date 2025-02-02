@@ -26,3 +26,7 @@ layout: base
   {%- include 'css/post.css' -%}
   {%- include 'css/footnotes.css' -%}
 {%- endcss -%}
+
+{% for post in collections.orderedReport | filterByLang('en') %}
+  // ... template code
+{% endfor %}
