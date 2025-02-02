@@ -1,34 +1,9 @@
 ---
-layout: base
+layout: homepage
 permalink: /index.html
 brow: This is the brow
 title: Gender STEM
 description: 'Tagline'
 ---
 
-  <header>
-    <h1>{{ title }}</h1>
-    <h3>{{ description }}</h3>
-    <h3>Chapters</h1>
-    <ul>
-      {% for chapter in collections.chapters %}
-        <li>
-          <a href="{{ chapter.url }}">{{ chapter.data.title | default("Untitled") }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-    <h3>Resources</h3>
-      {% for resource in resources %}
-        <pre>{{ resource | dump }}</pre>
-        {# <li>
-          <a href="{{ resource.url }}">{{ resource.name | default("Untitled") }}</a>
-        </li> #}
-      {% endfor %}
-    <ul>
-    </ul>
-  </header>
-
-  <section>
-    Homepage
-  </section>
-</div>
+  

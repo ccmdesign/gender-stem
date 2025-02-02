@@ -41,11 +41,11 @@
   </head>
 
   <body class="{{ layout }}">
-    {% include "partials/header.njk" %}
+    {# {% include "partials/header.njk" %} #}
 
     <main id="main" class="stack">{{ content | safe }}</main>
 
-    {% include "partials/footer.njk" %}
+    {# {% include "partials/footer.njk" %} #}
     {%- if meta.easteregg -%}
       <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
       <custom-easteregg></custom-easteregg>
